@@ -15,6 +15,3 @@ This project presents an **Autonomous GeoAI Agent** designed to optimize emergen
 2. Run **STEP 1** to install dependencies (`geopandas`, `folium`, `google-generativeai`).
 3. Ensure you have your valid **ORS API Key** and **Gemini API Key** ready.
 4. Run the subsequent cells sequentially. The system will automatically fetch the required CSV datasets from this repository and generate the interactive routing map.
-
-## 📺 Demo Video
-*(Demo video link will be added here)*
